@@ -10,6 +10,9 @@ function App() {
         <div>
             <Header />
             <Notes />
+            <Notes />
+            <Notes />
+            <Notes />
             <Footer />
         </div>
     );

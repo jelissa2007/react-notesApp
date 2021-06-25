@@ -4,7 +4,8 @@ import React from 'react';
 
 function Header() {
     return <header>
-        <h1>KEEPER APP 2021</h1>
+        <h1>NOTE KEEPER APP 2021</h1>
+        <p>enter notes below!</p>
 
     </header>
 }
